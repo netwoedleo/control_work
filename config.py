@@ -1,0 +1,1 @@
+DB_NAME = "shopping_list.sqlite3"
